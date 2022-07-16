@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2022-07-15 22:36:11 -0400",
+      "minecraft:ice_spikes": "2022-07-15 23:23:51 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
