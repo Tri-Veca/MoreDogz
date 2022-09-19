@@ -19,6 +19,10 @@ import net.minecraft.world.item.ItemStack;
 
 import net.minecraft.world.level.Level;
 
+/*
+List of methods I want for this class.
+ */
+
 public abstract class AbstractDogEntity extends TamableAnimal implements IDog {
     protected AbstractDogEntity(EntityType<? extends TamableAnimal> type, Level level) {
         super(type, level);
